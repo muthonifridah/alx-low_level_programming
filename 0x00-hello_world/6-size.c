@@ -1,7 +1,7 @@
 #include <stdio.h>
 
 /**
- * main - pint the size of various types based on computer it is compiled and run on..
+ * main - Print the size of various types based on computer.
  * Return: Always 0.
  */
 
