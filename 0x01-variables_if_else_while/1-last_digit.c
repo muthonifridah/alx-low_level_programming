@@ -4,8 +4,11 @@
 /**
  * main - print test according to numbers
  * Return: Always (success)
+ *
  */
+
 int main(void)
+
 {
 	int n, lastd;
 
