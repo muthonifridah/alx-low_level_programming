@@ -2,7 +2,7 @@
 #include <stdlib.h>
 #include <time.h>
 /**
- * Entry point
+ * main -  Entry point
  * program that print letters except q and e
  * Return: Always 0 (success)
  */
