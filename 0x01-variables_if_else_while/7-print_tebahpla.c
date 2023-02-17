@@ -3,8 +3,10 @@
 #include <time.h>
 /**
  * main - Entry point
+ * decrement
  * Return: Always 0 (success)
  */
+
 int main(void)
 {
 	char low;
